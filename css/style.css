@@ -18,7 +18,7 @@ a {
 }
 
 .main-button a {
-	background-color: #3a8bcd;
+	background-color: #29a22e;
 	border-radius: 5px;
 	padding: 10px 15px;
 	display: inline-block;
@@ -40,7 +40,7 @@ a {
 .section-heading .line-dec {
 	width: 30px;
 	height: 5px;
-	background-color: #3a8bcd;
+	background-color: #29a22e;
 }
 .section-heading h1 {
 	font-size: 22px;
@@ -94,7 +94,7 @@ a {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-	color: #3a8bcd;
+	color: #29a22e;
 }
 .navbar:after {
 	width: 100%;
@@ -109,8 +109,8 @@ a {
 	background-image: none;
 }
 .navbar-dark .navbar-toggler {
-	border-color: #3a8bcd;
-	background-color: #3a8bcd;	
+	border-color: #29a22e;
+	background-color: #29a22e;	
 	height: 50px;
 	outline: none;
 }
@@ -124,7 +124,7 @@ a {
 /* Banner Style */
 .banner {
 	margin-top: 50px;
-	background-image: url(../assets/images/banner-bg.jpg);
+	background-image: url(../assets/images/gyn-3.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 150px 0px;
@@ -145,7 +145,7 @@ a {
 .banner .caption .line-dec {
 	width: 30px;
 	height: 5px;
-	background-color: #3a8bcd;
+	background-color: #29a22e;
 }
 .banner .caption p {
 	margin-top: 15px;
@@ -207,7 +207,7 @@ a {
 
 /* Subscribe Style */
 .subscribe-form {
-	background-color: #ff4901;
+	background-image: url(../assets/images/gestor-de-academia-1200x675.jpg);
 	padding: 80px 0px;
 	text-align: center;
 }
@@ -215,19 +215,19 @@ a {
 	margin-top: 0px;
 }
 .subscribe-form .section-heading h1 {
-	color: #fff;
+	color: #29a22e;
 }
 .subscribe-form .section-heading .line-dec {
-	background-color: #fff;
+	background-color: #29a22e;
 	margin: 0 auto;
 }
 .subscribe-form .main-content p {
 	font-size: 17px;
-	color: #fff;
+	color: #29a22e;
 	margin-bottom: 30px;
 }
 .subscribe-form .main-content form  {
-	color: #fff;
+	color: #29a22e;
 	display: inline;
 }
 .subscribe-form .main-content form input {
@@ -236,25 +236,25 @@ a {
 .subscribe-form .main-content form input {
 	width: 100%;
 	height: 46px;
-	border: 1px solid #fff;
+	border: 1px solid #29a22e;
 	background-color: transparent;
 	padding-left: 15px;
-	color: #fff;
+	color: #29a22e;
 	outline: none;
 }
 .subscribe-form .main-content form button:focus {
-	color: #fff!important;
+	color: #29a22e!important;
 }
 .subscribe-form .main-content form button {
 	width: 100%;
 	height: 45px;
 	cursor: pointer;
-	background-color: #fff;
+	background-color: #29a22e;
 	outline: none;
 	border-radius: 5px;
 	padding: 10px 15px;
 	display: inline-block;
-	color: #3a8bcd;
+	color: #fff;
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 300;
@@ -281,7 +281,7 @@ a {
 .footer .logo img {
 	max-width: 100%;
 	margin-top: 60px;
-	margin-bottom: 40px;
+	margin-bottom: 60px;
 }
 .footer .footer-menu {
 	margin-bottom: 40px;
@@ -296,7 +296,7 @@ a {
 	transition: all 0.5s;
 }
 .footer .footer-menu a:hover {
-	color: #3a8bcd;
+	color: #29a22e;
 	text-decoration: none;
 }
 .footer .social-icons {
@@ -318,7 +318,7 @@ a {
 	transition: all 0.5s;
 }
 .footer .social-icons a:hover {
-	background-color: #3a8bcd;
+	background-color: #29a22e;
 }
 
 /* Sub Footer Style */
@@ -332,7 +332,7 @@ a {
 	line-height: 60px;
 }
 .sub-footer a {
-	color: #3a8bcd;
+	color: #29a22e;
 	text-decoration: none;
 }
 
@@ -357,14 +357,14 @@ a {
 	transition: all 0.5s;
 }
 .featured .featured-item:hover h4 {
-	color: #3a8bcd;
+	color: #29a22e;
 }
 #filter button {
 	outline: none;
 }
 #filter .btn-primary.focus,
 .btn-primary:focus {
-	color: #3a8bcd!important;
+	color: #29a22e!important;
 	box-shadow: none!important;
 }
 #filters .btn-primary {
