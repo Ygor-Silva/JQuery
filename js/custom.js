@@ -1,5 +1,7 @@
 // instancia jquery e evita conflitos
-// jQuery( function($){
+// jQuery( function($)
+
+
 $(document).ready(function(){
    
    $('.owl-carousel').owlCarousel();
